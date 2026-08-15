@@ -6,6 +6,9 @@ Quartz is a set of tools that helps you publish your [digital garden](https://jz
 
 🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
 
+
+**[emamulazam.github.io/note](https://emamulazam.github.io/note/)**
+
 [Join the Discord Community](https://discord.gg/cRFFHYye7t)
 
 ## Sponsors
